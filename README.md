@@ -8,7 +8,7 @@
 - https://twchen.gitbook.io/leetcode/
 - https://www.pramp.com/#/
 - https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/edit
-- https://www.hackerearth.com/practice/?utm_medium=referral&utm_campaign=Algodsblog&utm_source=slack
+- https://www.hackerearth.com/practice/
 - https://interviewing.io
 - https://www.quora.com/What-are-the-best-ways-to-master-dynamic-programming/answer/Sameer-Gulati-3
 - https://www.quora.com/How-do-I-get-good-at-math-for-competitive-programming/answer/Sameer-Gulati-3
@@ -22,6 +22,11 @@
 - https://www.quora.com/q/techiedelight/500-Data-Structures-and-Algorithms-interview-questions-and-their-solutions
 - https://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
 - https://www.bigocheatsheet.com/
+
+## System Design
+- https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
+- https://github.com/donnemartin/system-design-primer
+- https://www.youtube.com/watch?v=VJpfO6KdyWE
 
 ## Platforms to Practice: 
 * ### [Codeforces](http://codeforces.com/contests)
@@ -61,7 +66,7 @@
 
 # Interview Prep
 * ### [Pramp](https://www.pramp.com/#/)
-- https://interviewing.io
+* ### [interviewing.io](https://interviewing.io)
 - https://docs.google.com/document/d/1wUCqhVHydWiDk6FJdFLSMpgigNrGcs4OFZg0Wa7JGEw/
 
 # Online Coding Hackathons and Competitions
